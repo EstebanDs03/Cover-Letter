@@ -1,4 +1,3 @@
-***Bienvenido
 
 Me complace presentarle mi primer proyecto en GitHub titulado "Cover Letter". Este proyecto marca mi incursión inicial en el desarrollo web, utilizando únicamente HTML y CSS para su implementación.
 
